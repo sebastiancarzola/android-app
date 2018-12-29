@@ -1,0 +1,1 @@
+This git is intended to be a space to develop android wiki apps.
